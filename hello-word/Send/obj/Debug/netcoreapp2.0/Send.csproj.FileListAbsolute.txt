@@ -1,0 +1,11 @@
+D:\estudos\2018\rabbitmq\hello-word\Send\bin\Debug\netcoreapp2.0\Send.deps.json
+D:\estudos\2018\rabbitmq\hello-word\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.json
+D:\estudos\2018\rabbitmq\hello-word\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.dev.json
+D:\estudos\2018\rabbitmq\hello-word\Send\bin\Debug\netcoreapp2.0\Send.dll
+D:\estudos\2018\rabbitmq\hello-word\Send\bin\Debug\netcoreapp2.0\Send.pdb
+D:\estudos\2018\rabbitmq\hello-word\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+D:\estudos\2018\rabbitmq\hello-word\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+D:\estudos\2018\rabbitmq\hello-word\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs
+D:\estudos\2018\rabbitmq\hello-word\Send\obj\Debug\netcoreapp2.0\Send.dll
+D:\estudos\2018\rabbitmq\hello-word\Send\obj\Debug\netcoreapp2.0\Send.pdb
+D:\estudos\2018\rabbitmq\hello-word\Send\obj\Debug\netcoreapp2.0\Send.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\estudos\2018\rabbitmq\hello-word\Receive\bin\Debug\netcoreapp2.0\Receive.deps.json
+D:\estudos\2018\rabbitmq\hello-word\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.json
+D:\estudos\2018\rabbitmq\hello-word\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.dev.json
+D:\estudos\2018\rabbitmq\hello-word\Receive\bin\Debug\netcoreapp2.0\Receive.dll
+D:\estudos\2018\rabbitmq\hello-word\Receive\bin\Debug\netcoreapp2.0\Receive.pdb
+D:\estudos\2018\rabbitmq\hello-word\Receive\obj\Debug\netcoreapp2.0\Receive.csproj.CoreCompileInputs.cache
+D:\estudos\2018\rabbitmq\hello-word\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfoInputs.cache
+D:\estudos\2018\rabbitmq\hello-word\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfo.cs
+D:\estudos\2018\rabbitmq\hello-word\Receive\obj\Debug\netcoreapp2.0\Receive.dll
+D:\estudos\2018\rabbitmq\hello-word\Receive\obj\Debug\netcoreapp2.0\Receive.pdb
