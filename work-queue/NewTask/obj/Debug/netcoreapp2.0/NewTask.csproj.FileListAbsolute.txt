@@ -1,0 +1,10 @@
+D:\estudos\2018\rabbitmq\work-queue\NewTask\obj\Debug\netcoreapp2.0\NewTask.csproj.CoreCompileInputs.cache
+D:\estudos\2018\rabbitmq\work-queue\NewTask\obj\Debug\netcoreapp2.0\NewTask.AssemblyInfoInputs.cache
+D:\estudos\2018\rabbitmq\work-queue\NewTask\obj\Debug\netcoreapp2.0\NewTask.AssemblyInfo.cs
+D:\estudos\2018\rabbitmq\work-queue\NewTask\bin\Debug\netcoreapp2.0\NewTask.deps.json
+D:\estudos\2018\rabbitmq\work-queue\NewTask\bin\Debug\netcoreapp2.0\NewTask.runtimeconfig.json
+D:\estudos\2018\rabbitmq\work-queue\NewTask\bin\Debug\netcoreapp2.0\NewTask.runtimeconfig.dev.json
+D:\estudos\2018\rabbitmq\work-queue\NewTask\bin\Debug\netcoreapp2.0\NewTask.dll
+D:\estudos\2018\rabbitmq\work-queue\NewTask\bin\Debug\netcoreapp2.0\NewTask.pdb
+D:\estudos\2018\rabbitmq\work-queue\NewTask\obj\Debug\netcoreapp2.0\NewTask.dll
+D:\estudos\2018\rabbitmq\work-queue\NewTask\obj\Debug\netcoreapp2.0\NewTask.pdb
